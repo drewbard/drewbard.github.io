@@ -15,9 +15,9 @@ owner:
   bio:            "Loving life as much as I love software"
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:   https://twitter.com/BarrowDeveloper     
-  github:    https://github.com/drewbard
-  linkedin:  https://www.linkedin.com/in/drewbar 
+  twitter:   BarrowDeveloper     
+  github:    drewbard
+  linkedin:  drewbar 
   #instagram:      
   #flickr:         
   #tumblr:         
