@@ -1,29 +1,29 @@
-title:            Site Title
-description:      Describe your website here.
-disqus_shortname: hpstrtheme
+title:            DrewBar
+description:      Blog site to talk about what I've learned on my path to be a better software engineer
+disqus_shortname: drewbar
+comments: false
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: http://localhost:4000
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Drew Bar
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Loving life as much as I love software"
   email:          you@email.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
+  twitter:   https://twitter.com/BarrowDeveloper     
+  github:    https://github.com/drewbard
+  linkedin:  https://www.linkedin.com/in/drewbar 
+  #instagram:      
+  #flickr:         
+  #tumblr:         
+  #stackexchange:  
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +yourid
+  #google_plus:    +yourid
 
 # Background image to be tiled on all pages
 background: 
@@ -35,7 +35,7 @@ google_verify:
 bing_verify:         
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Tijuana
 future:      true
 highlighter: pygments
 markdown:    kramdown
