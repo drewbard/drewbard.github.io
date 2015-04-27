@@ -25,7 +25,7 @@ GEM
     ffi (1.9.8-x64-mingw32)
     ffi (1.9.8-x86-mingw32)
     gemoji (2.1.0)
-    github-pages (33)
+    github-pages (34)
       RedCloth (= 4.2.9)
       github-pages-health-check (~> 0.2)
       jekyll (= 2.4.0)
@@ -33,7 +33,7 @@ GEM
       jekyll-mentions (= 0.2.1)
       jekyll-redirect-from (= 0.6.2)
       jekyll-sass-converter (= 1.2.0)
-      jekyll-sitemap (= 0.6.3)
+      jekyll-sitemap (= 0.8.1)
       jemoji (= 0.4.0)
       kramdown (= 1.5.0)
       liquid (= 2.6.1)
@@ -78,7 +78,7 @@ GEM
       jekyll (~> 2.0)
     jekyll-sass-converter (1.2.0)
       sass (~> 3.2)
-    jekyll-sitemap (0.6.3)
+    jekyll-sitemap (0.8.1)
     jekyll-watch (1.2.1)
       listen (~> 2.7)
     jemoji (0.4.0)
@@ -110,7 +110,7 @@ GEM
       octopress-escape-code (~> 2.0)
       octopress-hooks (~> 2.0)
       titlecase
-    octopress-deploy (1.2.0)
+    octopress-deploy (1.2.1)
       colorator
     octopress-escape-code (2.0.6)
       octopress-hooks (~> 2.0)
@@ -147,8 +147,5 @@ PLATFORMS
   x86-mingw32
 
 DEPENDENCIES
-  github-pages
-  jekyll
-  jekyll-sitemap
-  octopress (~> 3.0.0.rc.12)
-  sass
+  github-pages (~> 34)
+  octopress (~> 3.0.0.rc)
